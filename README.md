@@ -1,2 +1,3 @@
 # hello-world
-first repo
+
+We will do great things together.
